@@ -2,7 +2,7 @@
 
 A simple shell script that uses Xwinwrap and mpv to add a video file to the desktop background. 
 
-![demo gif](/home/calvang/Documents/liveWall/demo/demo.gif)
+![demo gif](https://github.com/calvang/live-wall/demo/demo.gif)
 
 ### Prerequisites
 
