@@ -1,0 +1,6 @@
+#!/bin/bash
+# 2020-27-5 Calvin Huang
+# Uses mpv to display a given video file
+
+wallpaper=$(cat /home/calvang/Documents/liveWall/wallpaperSave)
+mpv --no-audio --no-border --no-config --no-window-dragging --no-input-default-bindings --no-osd-bar --no-sub --loop --wid=$1 $wallpaper
